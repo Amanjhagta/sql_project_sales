@@ -1,2 +1,2 @@
-# sql_project_aman
+# Sales_Project
 new project
